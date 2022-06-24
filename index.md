@@ -12,18 +12,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # GRACE TILLEY GITHUB PAGE
-## Header 2
-### Header 3
+## This is the github page where all of my prjects will be listed
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Find my github page here](gracetilley6.github.io)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
