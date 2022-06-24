@@ -9,13 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
 # GRACE TILLEY GITHUB PAGE
 ## This is the github page where all of my prjects will be listed
 
-
-**Bold** and _Italic_ and `Code` text
 
 [Find my github page here](gracetilley6.github.io)
 ```
